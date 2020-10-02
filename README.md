@@ -1,11 +1,12 @@
 # Wheat-head-detection
 Detecting wheat head from images. Using algorithms like yolov3 and FasterRCNN for the same task. Able to achieve an average Precision of about 0.92 using Yolov3.
 
-<b>
-<b>Framework Used:</b> PyTorch <br>
+<br>
+<b>Framework Used:</b>  PyTorch <br>
 <b>Github Repos used:</b>
-Faster RCNN : https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html (Torchvision official repository) <br>
-YoloV3 : https://github.com/ultralytics/yolov3 <br>
+</b>
+* Faster RCNN : https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html (Torchvision official repository) <br>
+* YoloV3 : https://github.com/ultralytics/yolov3 <br>
 
 
 
