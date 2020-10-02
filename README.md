@@ -5,4 +5,12 @@ Detecting wheat head from images. Using  algorithms like yolov3 and FasterRCNN f
 https://www.kaggle.com/c/global-wheat-detection
 
 ## Results
-<img src= https://github.com/arunm8489/Wheat-head-detection/blob/main/output/0d82ef017.jpg width=1000 height=1000>
+<img src= https://github.com/arunm8489/Wheat-head-detection/blob/main/output/0d82ef017.jpg width=500 height=500>
+<br>
+<img src= https://github.com/arunm8489/Wheat-head-detection/blob/main/output/1a39607ca.jpg width=500 height=500>
+<br>
+
+## Algorithms
+
+FasterRCNN : Validation AP= 0.82
+YoloV3: Validation AP=0.92
