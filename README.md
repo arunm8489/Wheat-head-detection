@@ -11,6 +11,5 @@ https://www.kaggle.com/c/global-wheat-detection
 <br>
 
 ## Algorithms
-
-FasterRCNN : Validation AP= 0.82
-YoloV3: Validation AP=0.92
+<b>FasterRCNN:</b> Validation AP= 0.82 <br>
+<b>YoloV3:</b> Validation AP=0.92 <br>
